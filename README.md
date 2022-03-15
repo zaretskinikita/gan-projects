@@ -1,0 +1,2 @@
+# GERDA-LEGEND
+GAN models 
